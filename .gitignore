@@ -1,2 +1,5 @@
 data/raw/Kindle_Store_5.json.gz
 data/raw/Movies_and_TV_5.json.gz
+data/processed/united_df.json
+data/delta
+data/hudi
